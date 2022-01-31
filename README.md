@@ -12,7 +12,7 @@ This test is designed to help us assess your level of knowledge in the areas of 
 ## Task
 
 - Create a fork of this repository
-- Run the Django development server and access http://localhost:8000/foo
+- Run the Django development server and access http://localhost:8000/
 - Use a sans-serif font family for the template
 - Align the boxes, so that they are in the right order
 - Add some space between the boxes and try to center the whole thing
