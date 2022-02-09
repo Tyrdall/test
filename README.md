@@ -16,7 +16,8 @@ This test is designed to help us assess your level of knowledge in the areas of 
 - Use a sans-serif font family for the template
 - Align the boxes, so that they are in the right order
 - Add some space between the boxes and try to center the whole thing
-- There's an API available in this project. Do you know where to find it and are you able to consume it in the template to use its data to display the boxes?
+- There's an API available in this project. Do you know where to find it?
+- Are you able to consume it in the template (using JavaScript) to use its response data to render the boxes?
 
 ## Requirements
 
